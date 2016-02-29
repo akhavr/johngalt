@@ -24,16 +24,19 @@ Any person can exit any contract, including a contract with a community (people)
 10. Freedom of movement.
 Personal freedom of movement shall not be limited by anything but a private propery of other people or groups of people (communities).
 
-## Importance of assosiations.
+## Importance of associations.
 
-Значна частина задач не вирішується силами однієї людини. Типовий приклад - військова безпека. Об'єднання людей в товариства важливо. Для об'єднання в товариство група людей зазначає
-- мету товариства,
-- правила вступу і членства, які мають містити виключний перелік делегованих товариству прав та обставин, за яких ці права делегуються,
-- порядок збору ресурсів на цю спільну мету (наприклад грошей),
-- порядок прийняття спільних рішень про використання ресурсів товариства,
-- порядок розподілу прибутків та збитків від діяльності товариства,
-- порядок вирішення внутрішніх суперечок,
-- порядок виходу з товариства (відповідальність за розрив угоди)
-Товариство (громада, корпорація) закінчує своє існування при досягненні мети.
-Прикладами можуть бути: об'єднання власників землі (сільська громада), професійні об'єднання для отримання прибутку (корпорація), об'єднання взаємного страхування (медичні або по віку), військове територіальне об'єднання.
-Як наслідок фундаментальних прав, не учасники товариства не можуть розраховувати на його допомогу (наприклад військову або поліцейську) - і цим несуть відповідальність за свою НЕучасть. Симетрично, учасники товариства також несуть наслідки НЕнадання допомоги людям, що потерпають.
+Lots of important tasks could not be solved by a single individual.  Typical example is military security.  Thus associations of individuals are important.  To create an association, several individuals state:
+- the goal of the association,
+- rules of admission and membership, that state exhaustive list of rights, delegated to the association and cases when they are delegated,
+- the process of collection of resources (e.g. funds) for the stated goals,
+- the process of making joint decisions to use collected resources
+- the order of profits and losses distribution,
+- the procedure for resolving internal disputes,
+- the procedure of leaving the association (responsibility for breaking the agreement)
+
+The association is dissolved as soon as the goal is achieved.
+
+Examples include: association of landowners (village community), the professional for-profit association (corporation), mutual insurance associations (medical or age), military territorial association.
+
+As the result of fundamental rights, individuals that aren't members of association can not count on the help of the association (for example military or police assistance) and thus are responsible for their NON-participation.  Symmetrically, members of society bear the consequences of failure to provide assistance to people who suffer.
