@@ -4,14 +4,12 @@ Rationale
 Everyone uses social networks.  We use them mostly for fun and
 amusement, less frequently for education and joint action.
 
-Yet, there is a problem.
-
-Problem called "centralization".
+Yet, there is a problem.  Problem called "centralization".
 
 You've might have heard about Johnston's Law: "Everything that can be
 decentralized, will be decentralized" [1]
 
-There's an issue, however, which is called Levine Counterpoint:
+Perhaps fewer people heard about called Levine Counterpoint:
 "Anything Disruptive that Can Be Stopped, Will Be Stopped". [2]
 That means that anything, that the powers, controling or influencing
 the service, would stop anything disruptive.
@@ -44,7 +42,7 @@ everyday for ukrainian news outlets.  If you're in doubt, just recall
 frequent DDOS attacks on bitcoin exchanges.
 
 This won't matter if we would use social networks just for posting
-cats.  But socian networks are more and more frequently play a
+cat photos.  But socian networks are more and more frequently play a
 networking layer for important social actions.  Like Orange Revolution
 in 2004 would be hardly possible without LiveJournal and SMS, the
 Maidan in 2013 was fueled by FB, Twitter and IM's
@@ -75,7 +73,7 @@ In short, the definition of dapp is:
    application and any contribution of value from (miners / farmers)
    should be rewarded in the application’s tokens.
 4. The application must generate tokens according to a standard
-   crytptographic algorithm acting as a proof of the value nodes are
+   cryptographic algorithm acting as a proof of the value nodes are
    contributing to the application.
 
 Decentralized and uncensorable social action network should satisfy
@@ -106,7 +104,7 @@ I've decided to use IPFS as a storage and data transfer layer
 * free to use (no intrinsic coin/token/cost) yet filecoin is on the roadmap
 * handles tiny files well via DHT
 * handles huge files well via Bittorrent's BitSwap
-* support both client-server and blockchain-style apps [10]
+* supports both client-server and blockchain-style apps [10]
 
 Technical basics
 ----------------
@@ -135,7 +133,7 @@ The rough schematics follow.
   response 
 * (proxy) returns output received from the remove ipfs node
 
-### HTTP WebSockets
+### WebSockets
 
 * same as POST above, but connection is not closed
 
@@ -156,7 +154,7 @@ End-to-end encryption would be achiveved by
 * user's storage is secured by anything practical, for example:
 
  * being a stored in a local client app
- * ripple-style, or airbitzh-style blob-storage
+ * ripple-style, or airbitz-style blob-storage
  * hardware-based authentification
  * BlockAuth [12]
  * DashSocial [13]
@@ -184,7 +182,7 @@ Writing blockchain style apps is easy, since ipfs provides lots of
 necessary storage and data transfer primitives and you're free to
 choose the implementation language and libraries.
 
-The code could be easilty server directly from IPFS and executed on
+The code could be easilty served directly from IPFS and executed on
 remote servers over IPFS.
 
 ### App Store (not TM :)
