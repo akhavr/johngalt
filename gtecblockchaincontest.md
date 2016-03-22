@@ -18,7 +18,8 @@ https://github.com/akhavr/johngalt/blob/master/p2p.content.md
 
 ## Which blockchain do you use, and why does it help to solve your problem?
 
-We develop custom per-app blockchains over  IPFS.
+We develop custom per-app blockchains over  IPFS. Some initial work was done in
+https://github.com/42cc/evox
 
 IPFS provides p2p reliable network storage and communication with
 immutable data and ability to route around filters.
