@@ -27,7 +27,8 @@ immutable data and ability to route around filters.
 
 ## Where do you live now, and where is the team based?
 
-me - Kyiv, Ukraine
+Me - Kyiv, Ukraine
+
 Project team will be distributed
 
 ## How many people are in your team, and what do they do?
