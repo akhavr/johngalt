@@ -42,7 +42,7 @@ everyday for ukrainian news outlets.  If you're in doubt, just recall
 frequent DDOS attacks on bitcoin exchanges.
 
 This won't matter if we would use social networks just for posting
-cat photos.  But socian networks are more and more frequently play a
+cat photos.  But social networks are increasingly playing as a
 networking layer for important social actions.  Like Orange Revolution
 in 2004 would be hardly possible without LiveJournal and SMS, the
 Maidan in 2013 was fueled by FB, Twitter and IM's
