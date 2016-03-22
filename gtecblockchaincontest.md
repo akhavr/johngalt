@@ -29,7 +29,7 @@ immutable data and ability to route around filters.
 
 Me - Kyiv, Ukraine
 
-Project team will be distributed
+Initially project team is also in Kyiv, but the plan is to have distributed team of enthusiasts across the globe without single person or company controlling project development
 
 ## How many people are in your team, and what do they do?
 
