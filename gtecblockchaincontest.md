@@ -33,7 +33,7 @@ Project team will be distributed
 
 ## How many people are in your team, and what do they do?
 
-Me + my software development team from 42 Coffee Cups
+Me, my software development team from 42 Coffee Cups, Maxim Orlovsky from BICA Labs
 
 
 # Users
