@@ -5,8 +5,8 @@
 
 Internet services suffer from centralization which hinders innovation.
 We develop open source platform for uncensorable communication and
-apps.  Our first apps are Social Network, Group Decision (on
-blockchain) and Finances.
+services that would be available in an app store.  Our first apps are
+Social Network, Group Decision (on blockchain) and Finances.
 
 ## What stage is your company/product in?
 
@@ -18,8 +18,8 @@ https://github.com/akhavr/johngalt/blob/master/p2p.content.md
 
 ## Which blockchain do you use, and why does it help to solve your problem?
 
-We develop custom per-app blockchains over  IPFS. Some initial work was done in
-https://github.com/42cc/evox
+We develop custom per-app blockchains over  IPFS. An example could
+be seen at https://github.com/42cc/evox
 
 IPFS provides p2p reliable network storage and communication with
 immutable data and ability to route around filters.
