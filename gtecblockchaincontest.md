@@ -4,9 +4,10 @@
 ## Describe your project and the problem it solves
 
 Internet services suffer from centralization which hinders innovation.
-We develop open source platform for uncensorable communication and
-services that would be available in an app store.  Our first apps are
-Social Network, Group Decision (on blockchain) and Finances.
+We develop open source platform for uncensorable
+and decentralised services, such as social networks or messenging, which
+would be available in some sort of decentralized marketplace ("app store").
+For the beginning we'll start with Social Network, Group Decision and Finances.
 
 ## What stage is your company/product in?
 
